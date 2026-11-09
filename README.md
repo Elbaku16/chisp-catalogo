@@ -14,6 +14,8 @@ Catálogo digital de robots meseros de CHISP, una empresa simulada de Tecate, Ba
 
 Es un sitio estático: `index.html` y la carpeta `assets`. No envía ni guarda datos, y las compras son solo de demostración.
 
+Las fotos de robots son de Wikimedia Commons, con licencias CC BY-SA 4.0 y CC0. Los créditos están al pie de la página.
+
 ## Equipo 1 · Grupo 574
 
 - Cortez Hernández Lenin Baku
